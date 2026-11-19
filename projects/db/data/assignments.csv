@@ -1,0 +1,51 @@
+person_id,project_id,role,hours_per_week,joined_date
+4,1,analyst,14,2025-12-15
+6,1,engineer,19,2026-05-13
+18,1,designer,7,2025-12-23
+12,1,designer,16,2025-12-12
+7,1,designer,10,2026-01-10
+5,2,project lead,15,2025-12-24
+16,2,engineer,23,2025-12-27
+7,2,project lead,5,2026-01-07
+16,3,designer,16,2026-07-15
+20,3,analyst,10,2026-07-13
+14,3,engineer,15,2026-06-28
+4,3,reviewer,6,2026-07-02
+5,4,analyst,15,2026-05-26
+1,4,project lead,9,2026-06-15
+10,4,designer,15,2026-06-11
+3,4,project lead,8,2026-06-09
+13,4,analyst,9,2026-06-06
+14,4,analyst,14,2026-06-06
+4,5,project lead,24,2026-04-09
+18,5,reviewer,24,2026-04-09
+13,5,project lead,22,2026-03-30
+7,5,analyst,6,2026-04-01
+15,5,project lead,22,2026-04-03
+17,5,analyst,16,2026-04-02
+5,6,engineer,15,2025-12-17
+3,6,analyst,22,2025-12-19
+4,6,project lead,14,2025-12-20
+25,6,analyst,5,2025-12-10
+8,6,project lead,5,2025-12-29
+25,7,project lead,15,2025-12-22
+11,7,engineer,8,2026-01-01
+19,7,reviewer,18,2025-12-17
+2,7,reviewer,7,2025-12-25
+12,7,analyst,22,2025-12-15
+19,8,reviewer,10,2025-12-23
+2,8,engineer,13,2025-12-24
+23,8,designer,11,2025-12-23
+21,9,reviewer,16,2026-01-11
+3,9,analyst,16,2026-01-17
+6,9,analyst,14,2026-05-06
+7,9,project lead,8,2026-01-20
+10,9,reviewer,19,2025-12-30
+8,9,engineer,17,2026-01-08
+22,10,analyst,21,2025-12-01
+25,10,designer,21,2025-12-08
+12,10,engineer,6,2025-12-01
+19,11,project lead,14,2026-11-16
+9,11,reviewer,5,2026-11-16
+4,12,designer,9,2026-11-16
+15,12,reviewer,25,2026-11-16

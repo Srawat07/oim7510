@@ -1,0 +1,13 @@
+project_id,project_name,client,category,budget_dollars,start_date,status
+1,Project Atlas,Harborline Insurance,data pipeline,60000,2025-12-05,active
+2,Project Beacon,Beacon Retail Group,internal tool,120000,2025-12-22,active
+3,Project Cascade,,LLM app,40000,2026-06-26,active
+4,Project Delta,Charles River Freight,data pipeline,250000,2026-05-26,active
+5,Project Ember,Bluebird Hotels,internal tool,40000,2026-03-28,active
+6,Project Flint,Granite Peak Capital,LLM app,30000,2025-12-09,active
+7,Project Granite,,data pipeline,90000,2025-12-13,paused
+8,Project Harbor,Northstar Legal,internal tool,400000,2025-12-09,paused
+9,Project Ivory,Comet Logistics,LLM app,90000,2025-12-30,done
+10,Project Juniper,Harborline Insurance,data pipeline,60000,2025-11-20,done
+11,Project Kestrel,,internal tool,180000,2026-12-19,planned
+12,Project Lumen,Mass Medical Partners,LLM app,25000,2027-01-13,planned

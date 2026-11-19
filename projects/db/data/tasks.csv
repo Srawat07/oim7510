@@ -1,0 +1,251 @@
+task_id,project_id,description,created_date,assignee_id,due_date,completed_date
+1,1,Design the prompt set,2026-02-04,18,2026-02-18,
+2,4,Review the client demo,2026-08-15,1,2026-09-11,2026-08-24
+3,1,Review the retrieval index,2026-02-26,4,2026-03-05,
+4,10,Document the prompt set,2025-12-13,25,2025-12-28,
+5,8,Benchmark the eval harness,2026-03-08,,2026-03-24,
+6,1,Design the release notes,2026-03-07,,2026-04-03,
+7,7,Review the prompt set,2026-07-08,19,2026-07-22,
+8,10,Refactor the schema,2026-09-08,25,2026-09-22,2026-10-13
+9,6,Ship the eval harness,2026-07-19,25,2026-07-30,2026-07-28
+10,8,Draft the client demo,2026-08-24,23,2026-09-03,
+11,7,Refactor the onboarding doc,2026-02-20,19,2026-02-27,2026-04-01
+12,1,Benchmark the retrieval index,2026-06-18,4,2026-06-21,
+13,1,Review the release notes,2026-02-09,,2026-02-26,
+14,2,Draft the onboarding doc,2026-10-17,5,2026-10-29,
+15,7,Ship the eval harness,2026-09-05,2,2026-09-25,
+16,1,Test the onboarding doc,2026-10-01,,2026-10-12,
+17,9,Design the release notes,2026-06-02,10,2026-06-28,2026-06-28
+18,7,Review the eval harness,2025-12-24,19,2026-01-02,2025-12-28
+19,6,Test the dashboard,2026-04-04,8,2026-04-09,2026-05-19
+20,7,Refactor the schema,2026-09-26,19,2026-10-21,
+21,7,Document the retrieval index,2026-07-16,25,2026-07-31,2026-07-23
+22,2,Design the prompt set,2026-04-07,5,2026-04-12,
+23,3,Review the release notes,2026-06-27,16,2026-07-07,2026-06-28
+24,5,Refactor the onboarding doc,2026-11-10,18,2026-11-27,
+25,1,Ship the release notes,2026-02-24,4,2026-02-28,
+26,6,Review the client demo,2026-08-06,25,2026-08-22,
+27,6,Document the retrieval index,2025-12-14,4,2025-12-29,
+28,1,Benchmark the ingestion job,2025-12-07,4,2026-01-05,2026-01-11
+29,3,Review the retrieval index,2026-11-10,4,2026-12-05,2026-11-15
+30,7,Refactor the client demo,2025-12-24,,2026-01-06,2026-01-06
+31,6,Benchmark the cost report,2026-02-28,8,2026-03-21,
+32,7,Review the cost report,2026-08-09,25,2026-08-24,2026-09-21
+33,9,Design the cost report,2026-04-04,3,2026-04-18,2026-04-15
+34,8,Test the cost report,2026-02-07,2,2026-03-05,2026-03-06
+35,9,Benchmark the eval harness,2026-05-09,10,2026-05-25,
+36,2,Draft the prompt set,2026-03-12,7,2026-03-25,2026-04-03
+37,9,Test the dashboard,2026-08-13,,2026-08-27,
+38,10,Design the release notes,2026-01-18,,2026-02-16,2026-01-19
+39,9,Test the schema,2026-02-27,21,2026-03-28,
+40,9,Test the cost report,2026-09-26,,2026-10-07,2026-11-01
+41,5,Benchmark the release notes,2026-09-26,7,2026-10-23,
+42,2,Review the dashboard,2026-09-13,5,2026-10-11,2026-10-17
+43,1,Test the onboarding doc,2026-05-15,,2026-06-06,2026-06-25
+44,10,Draft the prompt set,2026-07-18,22,2026-07-31,
+45,2,Refactor the prompt set,2026-09-29,16,2026-10-06,2026-11-09
+46,8,Benchmark the prompt set,2026-10-07,19,2026-11-02,2026-10-25
+47,2,Document the cost report,2026-06-17,7,2026-06-21,
+48,3,Test the onboarding doc,2026-10-11,4,2026-10-31,
+49,2,Document the client demo,2026-05-16,7,2026-05-24,
+50,3,Design the onboarding doc,2026-08-19,20,2026-09-15,
+51,4,Review the eval harness,2026-08-03,13,2026-08-13,2026-09-05
+52,5,Design the onboarding doc,2026-07-07,,2026-07-28,2026-07-21
+53,1,Refactor the eval harness,2026-07-02,12,2026-07-08,
+54,9,Ship the release notes,2026-02-01,10,2026-03-02,
+55,9,Ship the ingestion job,2026-08-13,7,2026-08-28,
+56,9,Benchmark the onboarding doc,2026-04-29,,2026-05-22,2026-06-10
+57,3,Test the onboarding doc,2026-11-09,4,2026-12-09,2026-11-15
+58,5,Test the dashboard,2026-06-09,15,2026-07-08,
+59,1,Design the cost report,2026-09-07,7,2026-09-27,
+60,2,Test the cost report,2026-09-23,,2026-10-23,2026-11-01
+61,8,Benchmark the schema,2026-08-05,2,2026-08-21,2026-08-13
+62,4,Refactor the eval harness,2026-06-28,,2026-07-28,
+63,7,Draft the prompt set,2026-04-13,25,2026-04-16,
+64,10,Test the release notes,2026-06-15,25,2026-07-01,2026-06-18
+65,10,Refactor the cost report,2026-08-20,22,2026-09-03,2026-10-03
+66,1,Refactor the client demo,2026-04-28,,2026-05-07,
+67,8,Benchmark the ingestion job,2026-04-20,2,2026-04-26,2026-05-15
+68,10,Ship the eval harness,2026-07-20,,2026-07-26,
+69,8,Refactor the ingestion job,2026-03-24,23,2026-04-21,
+70,1,Test the schema,2026-07-07,4,2026-07-18,
+71,8,Design the onboarding doc,2026-10-14,23,2026-11-12,
+72,2,Document the schema,2026-01-22,7,2026-02-04,2026-02-04
+73,9,Refactor the client demo,2026-04-09,10,2026-04-17,2026-04-17
+74,9,Test the retrieval index,2026-06-12,7,2026-06-21,2026-07-18
+75,10,Benchmark the schema,2026-02-07,12,2026-02-11,2026-02-20
+76,7,Benchmark the schema,2026-06-16,2,2026-07-09,2026-07-18
+77,7,Ship the prompt set,2026-08-15,11,2026-09-11,
+78,2,Design the ingestion job,2026-06-24,,2026-07-09,2026-08-06
+79,2,Document the eval harness,2026-05-24,5,2026-06-04,2026-06-28
+80,9,Benchmark the release notes,2025-12-30,8,2026-01-14,
+81,3,Ship the onboarding doc,2026-08-05,4,2026-08-09,
+82,8,Refactor the release notes,2026-06-18,19,2026-06-21,
+83,9,Test the retrieval index,2026-02-13,3,2026-03-01,
+84,8,Review the dashboard,2026-01-28,2,2026-02-07,
+85,6,Design the dashboard,2026-11-04,8,2026-11-16,
+86,3,Review the cost report,2026-11-08,14,2026-11-30,2026-11-15
+87,4,Benchmark the prompt set,2026-09-21,14,2026-10-07,
+88,8,Refactor the client demo,2026-05-25,23,2026-06-17,
+89,3,Design the cost report,2026-11-13,16,2026-11-20,2026-11-14
+90,9,Refactor the schema,2026-08-30,7,2026-09-03,2026-10-04
+91,3,Refactor the onboarding doc,2026-07-23,4,2026-07-26,
+92,4,Ship the schema,2026-08-01,13,2026-08-06,
+93,8,Review the onboarding doc,2026-08-10,19,2026-08-13,
+94,9,Test the cost report,2026-01-06,,2026-02-05,2026-01-10
+95,3,Ship the dashboard,2026-08-19,4,2026-09-06,2026-09-15
+96,8,Design the onboarding doc,2026-08-22,19,2026-09-15,
+97,8,Design the client demo,2026-06-25,23,2026-07-08,2026-07-22
+98,9,Benchmark the prompt set,2026-09-17,,2026-10-09,2026-10-24
+99,6,Design the client demo,2025-12-10,4,2026-01-09,
+100,3,Review the cost report,2026-11-11,16,2026-11-23,2026-11-15
+101,3,Test the onboarding doc,2026-07-03,4,2026-07-21,2026-07-06
+102,3,Review the release notes,2026-10-17,,2026-10-20,2026-11-01
+103,10,Benchmark the client demo,2026-02-13,25,2026-02-27,2026-02-20
+104,9,Refactor the onboarding doc,2026-04-28,3,2026-05-12,2026-05-27
+105,10,Draft the release notes,2026-02-03,25,2026-02-08,
+106,4,Review the prompt set,2026-11-14,1,2026-11-29,2026-11-15
+107,4,Refactor the ingestion job,2026-07-26,5,2026-08-01,
+108,6,Benchmark the retrieval index,2026-04-23,8,2026-05-10,2026-06-01
+109,4,Benchmark the dashboard,2026-07-01,10,2026-07-06,2026-07-04
+110,7,Benchmark the onboarding doc,2026-01-23,11,2026-01-29,2026-03-03
+111,9,Ship the ingestion job,2026-02-13,7,2026-03-14,2026-03-04
+112,1,Draft the cost report,2026-04-09,4,2026-05-02,2026-05-18
+113,8,Document the client demo,2026-07-17,23,2026-07-28,2026-07-27
+114,6,Ship the eval harness,2026-08-15,3,2026-09-01,
+115,8,Review the client demo,2026-04-26,19,2026-05-18,
+116,8,Review the ingestion job,2026-05-02,23,2026-05-28,2026-05-14
+117,10,Test the release notes,2026-09-14,,2026-10-10,
+118,3,Benchmark the cost report,2026-10-26,14,2026-11-24,
+119,1,Review the onboarding doc,2026-01-31,,2026-02-15,2026-02-01
+120,1,Draft the eval harness,2026-07-20,,2026-08-02,2026-07-22
+121,7,Document the onboarding doc,2026-02-26,2,2026-03-26,2026-03-07
+122,7,Test the eval harness,2025-12-26,,2026-01-01,2026-01-29
+123,7,Benchmark the onboarding doc,2026-04-17,12,2026-05-09,
+124,2,Benchmark the cost report,2026-05-24,,2026-05-27,2026-06-07
+125,8,Test the onboarding doc,2026-08-06,2,2026-08-14,2026-08-12
+126,9,Refactor the dashboard,2026-11-09,21,2026-12-03,
+127,3,Benchmark the prompt set,2026-10-21,20,2026-10-27,
+128,10,Design the eval harness,2026-04-27,,2026-05-15,
+129,5,Design the prompt set,2026-05-06,7,2026-05-31,2026-06-14
+130,5,Draft the retrieval index,2026-05-07,13,2026-05-25,
+131,5,Test the client demo,2026-05-14,4,2026-06-12,2026-06-25
+132,3,Benchmark the cost report,2026-10-01,16,2026-10-31,2026-10-30
+133,6,Ship the eval harness,2025-12-14,3,2025-12-26,2026-01-09
+134,5,Refactor the onboarding doc,2026-04-08,,2026-05-08,2026-05-05
+135,2,Draft the retrieval index,2026-09-17,7,2026-10-09,2026-10-29
+136,10,Review the cost report,2026-08-18,12,2026-09-06,2026-08-25
+137,4,Draft the client demo,2026-07-10,14,2026-08-09,
+138,8,Refactor the prompt set,2026-03-07,19,2026-03-18,2026-04-21
+139,9,Document the client demo,2026-04-18,3,2026-05-09,2026-05-15
+140,6,Draft the onboarding doc,2026-07-23,5,2026-08-02,
+141,5,Refactor the dashboard,2026-04-13,7,2026-05-04,2026-05-04
+142,1,Review the client demo,2025-12-20,,2026-01-12,2026-01-20
+143,1,Document the cost report,2026-02-02,7,2026-02-26,2026-02-09
+144,1,Test the eval harness,2026-05-06,,2026-05-11,2026-05-25
+145,1,Refactor the prompt set,2026-02-04,12,2026-02-18,2026-02-27
+146,9,Design the ingestion job,2026-05-24,21,2026-06-02,2026-06-06
+147,2,Ship the prompt set,2026-07-26,5,2026-08-17,2026-08-07
+148,7,Refactor the prompt set,2026-06-07,25,2026-06-17,
+149,2,Benchmark the dashboard,2026-10-14,16,2026-11-05,2026-10-30
+150,3,Document the prompt set,2026-08-10,4,2026-08-28,2026-08-26
+151,5,Draft the schema,2026-09-23,7,2026-10-01,2026-10-20
+152,6,Refactor the release notes,2026-10-22,,2026-10-29,
+153,10,Ship the release notes,2025-12-15,12,2026-01-13,
+154,2,Design the release notes,2026-03-10,,2026-04-04,2026-03-18
+155,7,Ship the eval harness,2026-08-12,12,2026-09-05,2026-09-01
+156,4,Draft the dashboard,2026-07-06,3,2026-08-02,2026-07-18
+157,2,Test the prompt set,2026-09-06,16,2026-09-25,2026-09-26
+158,1,Test the cost report,2026-06-18,6,2026-07-02,2026-07-04
+159,7,Ship the eval harness,2026-05-21,11,2026-05-29,
+160,3,Test the dashboard,2026-08-04,14,2026-08-07,2026-08-23
+161,3,Draft the release notes,2026-10-17,14,2026-11-15,2026-10-23
+162,3,Benchmark the ingestion job,2026-10-14,16,2026-10-29,2026-10-26
+163,3,Refactor the onboarding doc,2026-07-13,16,2026-08-08,2026-08-06
+164,6,Draft the ingestion job,2025-12-21,5,2026-01-03,2026-01-31
+165,3,Test the ingestion job,2026-07-30,,2026-08-02,2026-08-01
+166,7,Ship the dashboard,2026-05-30,25,2026-06-25,2026-07-01
+167,8,Document the schema,2026-05-07,2,2026-05-10,2026-06-14
+168,5,Refactor the ingestion job,2026-05-22,18,2026-06-07,2026-06-08
+169,9,Design the eval harness,2026-03-30,3,2026-04-09,
+170,7,Benchmark the dashboard,2025-12-18,,2026-01-05,
+171,4,Design the onboarding doc,2026-11-06,5,2026-12-04,2026-11-16
+172,5,Refactor the ingestion job,2026-07-11,15,2026-08-01,2026-08-13
+173,9,Review the release notes,2026-01-22,10,2026-02-20,
+174,2,Ship the prompt set,2026-03-02,16,2026-03-19,2026-03-17
+175,2,Design the ingestion job,2026-02-16,5,2026-03-08,
+176,7,Review the eval harness,2026-08-13,11,2026-09-03,
+177,10,Benchmark the dashboard,2025-11-28,22,2025-12-09,
+178,9,Refactor the dashboard,2026-08-12,10,2026-08-17,
+179,2,Review the eval harness,2026-05-15,16,2026-05-27,2026-06-25
+180,9,Refactor the retrieval index,2026-04-29,10,2026-05-05,
+181,2,Design the release notes,2026-03-22,16,2026-04-01,2026-04-26
+182,1,Benchmark the onboarding doc,2026-10-09,4,2026-10-15,2026-11-13
+183,1,Design the release notes,2026-10-05,,2026-10-16,2026-11-10
+184,10,Test the cost report,2026-04-14,12,2026-04-18,2026-04-18
+185,9,Document the eval harness,2026-03-03,3,2026-03-28,2026-03-28
+186,5,Review the dashboard,2026-04-19,13,2026-05-11,
+187,1,Document the ingestion job,2026-04-26,18,2026-05-05,2026-05-24
+188,8,Design the cost report,2026-10-24,2,2026-11-16,2026-10-26
+189,5,Design the cost report,2026-07-02,4,2026-07-17,2026-08-15
+190,8,Review the client demo,2026-04-24,2,2026-05-06,2026-05-31
+191,3,Test the dashboard,2026-08-21,16,2026-09-05,2026-09-13
+192,5,Document the retrieval index,2026-10-21,13,2026-11-02,2026-11-09
+193,3,Benchmark the eval harness,2026-10-07,,2026-10-15,2026-11-05
+194,5,Ship the dashboard,2026-09-02,7,2026-09-13,
+195,8,Review the schema,2026-05-17,2,2026-05-22,2026-05-23
+196,4,Refactor the release notes,2026-07-28,1,2026-08-09,2026-08-12
+197,10,Draft the onboarding doc,2026-03-25,25,2026-04-15,
+198,2,Draft the prompt set,2026-05-16,16,2026-06-07,2026-06-15
+199,6,Draft the client demo,2026-02-02,,2026-02-11,2026-02-12
+200,2,Refactor the eval harness,2026-04-26,7,2026-05-07,2026-06-04
+201,3,Draft the onboarding doc,2026-09-28,4,2026-10-08,2026-10-31
+202,4,Draft the dashboard,2026-10-29,14,2026-11-03,2026-10-31
+203,7,Benchmark the prompt set,2026-06-01,11,2026-06-26,2026-07-10
+204,3,Refactor the ingestion job,2026-11-04,14,2026-12-04,2026-11-12
+205,2,Ship the eval harness,2026-04-11,5,2026-04-17,2026-04-19
+206,9,Refactor the onboarding doc,2026-10-21,10,2026-11-07,
+207,10,Ship the dashboard,2026-06-19,12,2026-06-24,2026-07-23
+208,6,Test the onboarding doc,2026-06-20,3,2026-07-02,
+209,7,Document the ingestion job,2026-01-27,25,2026-02-09,
+210,3,Ship the prompt set,2026-07-26,4,2026-08-17,2026-09-08
+211,10,Test the eval harness,2026-03-22,22,2026-04-19,2026-04-09
+212,7,Benchmark the ingestion job,2026-09-28,25,2026-10-27,
+213,5,Document the eval harness,2026-08-05,13,2026-08-19,2026-08-07
+214,4,Refactor the prompt set,2026-10-18,5,2026-11-04,2026-11-01
+215,7,Ship the dashboard,2026-08-07,,2026-08-28,
+216,6,Ship the schema,2026-10-03,8,2026-10-30,2026-10-19
+217,3,Benchmark the schema,2026-07-16,14,2026-07-29,
+218,4,Benchmark the dashboard,2026-06-04,5,2026-06-28,
+219,1,Ship the prompt set,2026-09-19,4,2026-10-10,2026-09-28
+220,8,Benchmark the ingestion job,2026-04-07,2,2026-04-27,
+221,6,Review the retrieval index,2026-01-30,,2026-02-17,2026-03-14
+222,7,Benchmark the client demo,2026-03-22,,2026-04-10,2026-04-28
+223,9,Test the dashboard,2026-02-05,7,2026-02-09,
+224,6,Draft the client demo,2026-03-03,4,2026-04-02,
+225,2,Benchmark the retrieval index,2026-10-07,,2026-10-29,
+226,7,Draft the client demo,2025-12-19,12,2025-12-24,2026-01-20
+227,10,Benchmark the dashboard,2026-08-15,12,2026-09-05,2026-08-23
+228,9,Test the prompt set,2026-05-21,6,2026-06-03,
+229,9,Review the dashboard,2026-04-25,10,2026-05-22,
+230,3,Review the onboarding doc,2026-11-04,20,2026-11-28,2026-11-08
+231,7,Document the client demo,2026-08-31,12,2026-09-11,2026-09-20
+232,2,Document the release notes,2026-11-13,16,2026-11-16,2026-11-16
+233,1,Test the retrieval index,2026-03-04,12,2026-04-02,2026-04-11
+234,1,Draft the eval harness,2026-10-13,12,2026-10-27,
+235,8,Benchmark the ingestion job,2026-05-01,2,2026-05-19,
+236,9,Benchmark the ingestion job,2026-05-11,8,2026-05-29,2026-06-08
+237,7,Document the eval harness,2026-10-12,12,2026-11-10,2026-10-15
+238,7,Ship the dashboard,2026-05-07,19,2026-05-19,2026-06-21
+239,5,Ship the retrieval index,2026-06-15,17,2026-07-13,
+240,8,Review the ingestion job,2026-06-20,2,2026-06-25,
+241,6,Design the onboarding doc,2026-04-01,5,2026-04-04,
+242,9,Ship the ingestion job,2026-10-04,8,2026-10-15,2026-11-09
+243,8,Draft the eval harness,2026-04-05,19,2026-04-15,2026-04-22
+244,4,Test the retrieval index,2026-09-15,1,2026-10-03,
+245,5,Refactor the ingestion job,2026-04-09,15,2026-04-28,
+246,6,Design the dashboard,2026-04-21,3,2026-05-01,
+247,10,Review the prompt set,2026-10-15,12,2026-10-22,2026-10-27
+248,9,Design the retrieval index,2026-03-29,8,2026-04-08,2026-05-07
+249,7,Benchmark the onboarding doc,2026-11-01,1,2026-11-13,2026-11-13
+250,4,Refactor the dashboard,2026-10-17,2,2026-11-04,

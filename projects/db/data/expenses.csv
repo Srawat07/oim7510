@@ -1,0 +1,161 @@
+expense_id,project_id,expense_date,amount_dollars,category,note
+1,9,2026-10-19,2317.07,GPU cloud,GPU cloud for project 9
+2,2,2026-09-18,4983.43,GPU cloud,GPU cloud for project 2
+3,4,2026-08-22,2138.05,GPU cloud,GPU cloud for project 4
+4,10,2026-10-06,1797.06,GPU cloud,GPU cloud for project 10
+5,9,2026-10-17,5100.14,GPU cloud,GPU cloud for project 9
+6,4,2026-09-07,2557.6,data labeling,data labeling for project 4
+7,3,2026-10-09,1383.84,data labeling,data labeling for project 3
+8,2,2026-09-03,1390.71,software,software for project 2
+9,7,2026-10-30,1384.7,software,software for project 7
+10,4,2026-09-29,3561.64,GPU cloud,GPU cloud for project 4
+11,6,2026-10-03,2223.12,travel,travel for project 6
+12,5,2026-10-25,3323.14,GPU cloud,GPU cloud for project 5
+13,7,2026-10-18,839.02,software,software for project 7
+14,9,2026-09-15,444.61,travel,travel for project 9
+15,5,2026-09-27,1994.4,data labeling,data labeling for project 5
+16,2,2026-10-30,2275.03,GPU cloud,GPU cloud for project 2
+17,6,2026-09-27,605.5,travel,travel for project 6
+18,3,2026-10-21,1896.43,travel,travel for project 3
+19,8,2026-09-16,1455.34,software,software for project 8
+20,9,2026-10-03,1146.02,data labeling,data labeling for project 9
+21,2,2026-08-21,1058.93,software,software for project 2
+22,3,2026-10-03,2305.04,travel,travel for project 3
+23,4,2026-09-03,1163.6,travel,travel for project 4
+24,5,2026-11-05,1082.61,GPU cloud,GPU cloud for project 5
+25,8,2026-09-08,533.25,software,software for project 8
+26,5,2026-09-03,1088.98,travel,travel for project 5
+27,9,2026-11-05,5376.97,GPU cloud,GPU cloud for project 9
+28,3,2026-11-08,169.97,data labeling,data labeling for project 3
+29,8,2026-10-14,2221.59,travel,travel for project 8
+30,3,2026-11-12,1553.69,data labeling,data labeling for project 3
+31,6,2026-08-21,2960.95,data labeling,data labeling for project 6
+32,2,2026-11-03,783.2,software,software for project 2
+33,7,2026-09-17,995.3,GPU cloud,GPU cloud for project 7
+34,4,2026-10-26,2139.84,data labeling,data labeling for project 4
+35,3,2026-09-07,492.12,software,software for project 3
+36,9,2026-10-27,583.48,data labeling,data labeling for project 9
+37,1,2026-08-20,300.22,software,software for project 1
+38,5,2026-09-26,1113.35,software,software for project 5
+39,7,2026-10-02,1290.36,travel,travel for project 7
+40,5,2026-10-16,1070.9,software,software for project 5
+41,10,2026-09-06,2378.1,data labeling,data labeling for project 10
+42,9,2026-10-03,1397.39,travel,travel for project 9
+43,6,2026-10-29,4285.92,data labeling,data labeling for project 6
+44,7,2026-08-20,952.58,data labeling,data labeling for project 7
+45,5,2026-09-08,4779.86,GPU cloud,GPU cloud for project 5
+46,9,2026-10-24,729.56,data labeling,data labeling for project 9
+47,9,2026-08-31,890.44,travel,travel for project 9
+48,5,2026-09-09,889.38,software,software for project 5
+49,10,2026-08-29,2679.49,GPU cloud,GPU cloud for project 10
+50,3,2026-11-14,1102.67,GPU cloud,GPU cloud for project 3
+51,10,2026-10-27,378.53,software,software for project 10
+52,2,2026-08-29,345.05,travel,travel for project 2
+53,10,2026-10-22,2098.42,travel,travel for project 10
+54,2,2026-10-24,4869.9,GPU cloud,GPU cloud for project 2
+55,1,2026-10-27,526.08,software,software for project 1
+56,5,2026-11-02,762.12,software,software for project 5
+57,6,2026-10-10,4118.12,data labeling,data labeling for project 6
+58,1,2026-09-16,2344.21,GPU cloud,GPU cloud for project 1
+59,9,2026-09-09,1094.45,software,software for project 9
+60,2,2026-09-22,5959.71,GPU cloud,GPU cloud for project 2
+61,10,2026-10-23,1350.66,data labeling,data labeling for project 10
+62,6,2026-10-02,1462.68,software,software for project 6
+63,1,2026-09-14,4718.69,GPU cloud,GPU cloud for project 1
+64,10,2026-10-11,5971.84,GPU cloud,GPU cloud for project 10
+65,8,2026-09-08,934.25,travel,travel for project 8
+66,8,2026-08-23,1052.58,travel,travel for project 8
+67,7,2026-09-25,2605.19,GPU cloud,GPU cloud for project 7
+68,8,2026-10-09,404.71,software,software for project 8
+69,8,2026-09-25,2804.2,data labeling,data labeling for project 8
+70,9,2026-09-14,2273.16,data labeling,data labeling for project 9
+71,1,2025-12-25,222.29,data labeling,data labeling for project 1
+72,6,2026-09-09,2061.18,software,software for project 6
+73,9,2026-09-21,1247.07,data labeling,data labeling for project 9
+74,10,2026-11-03,4372.56,GPU cloud,GPU cloud for project 10
+75,9,2026-08-01,815.68,data labeling,data labeling for project 9
+76,2,2026-01-24,807.13,data labeling,data labeling for project 2
+77,10,2026-05-04,3471.14,GPU cloud,GPU cloud for project 10
+78,1,2026-09-24,1912.4,travel,travel for project 1
+79,10,2026-05-12,3866.22,GPU cloud,GPU cloud for project 10
+80,7,2026-04-21,2419.83,data labeling,data labeling for project 7
+81,2,2026-02-14,1178.41,travel,travel for project 2
+82,1,2026-08-06,742.54,software,software for project 1
+83,1,2026-10-11,919.84,data labeling,data labeling for project 1
+84,10,2026-05-25,350.08,travel,travel for project 10
+85,8,2026-05-08,2438.97,travel,travel for project 8
+86,6,2026-07-06,3954.1,travel,travel for project 6
+87,9,2026-07-30,396.51,data labeling,data labeling for project 9
+88,6,2026-03-06,1957.27,data labeling,data labeling for project 6
+89,5,2026-04-11,953.27,software,software for project 5
+90,1,2026-01-09,1460.14,travel,travel for project 1
+91,9,2026-05-21,3495.46,GPU cloud,GPU cloud for project 9
+92,6,2026-07-25,2746.85,GPU cloud,GPU cloud for project 6
+93,7,2026-07-21,1773.33,data labeling,data labeling for project 7
+94,2,2026-08-05,1997.32,GPU cloud,GPU cloud for project 2
+95,3,2026-09-30,537.22,software,software for project 3
+96,4,2026-07-18,231.55,travel,travel for project 4
+97,7,2026-04-08,422.87,data labeling,data labeling for project 7
+98,7,2025-12-14,896.99,software,software for project 7
+99,9,2026-10-16,4716.46,GPU cloud,GPU cloud for project 9
+100,7,2026-04-19,2312.98,GPU cloud,GPU cloud for project 7
+101,3,2026-07-07,1179.3,software,software for project 3
+102,1,2026-04-16,691.31,travel,travel for project 1
+103,1,2026-10-02,1500.77,data labeling,data labeling for project 1
+104,8,2026-03-06,1045.23,software,software for project 8
+105,9,2026-04-07,109.83,software,software for project 9
+106,5,2026-05-19,4700.86,GPU cloud,GPU cloud for project 5
+107,6,2026-05-17,3851.55,travel,travel for project 6
+108,10,2026-06-01,2260.35,travel,travel for project 10
+109,5,2026-10-26,1087.04,software,software for project 5
+110,2,2026-08-15,1320.81,software,software for project 2
+111,5,2026-04-07,639.83,travel,travel for project 5
+112,7,2026-07-19,2845.57,GPU cloud,GPU cloud for project 7
+113,7,2026-04-15,5478.8,GPU cloud,GPU cloud for project 7
+114,9,2026-05-02,2060.02,travel,travel for project 9
+115,10,2026-02-06,1373.64,software,software for project 10
+116,4,2026-11-01,1213.8,GPU cloud,GPU cloud for project 4
+117,5,2026-10-07,4443.33,GPU cloud,GPU cloud for project 5
+118,10,2026-09-08,5891.48,GPU cloud,GPU cloud for project 10
+119,9,2026-02-24,672.14,data labeling,data labeling for project 9
+120,5,2026-10-03,2357.95,travel,travel for project 5
+121,8,2026-08-06,2292.04,travel,travel for project 8
+122,2,2026-06-10,705.09,data labeling,data labeling for project 2
+123,8,2026-07-19,334.87,software,software for project 8
+124,10,2026-07-10,938.47,travel,travel for project 10
+125,2,2026-10-21,296.14,data labeling,data labeling for project 2
+126,1,2026-08-10,671.22,data labeling,data labeling for project 1
+127,9,2026-10-01,1262.73,travel,travel for project 9
+128,7,2025-12-31,2339.93,data labeling,data labeling for project 7
+129,2,2026-02-25,1937.72,data labeling,data labeling for project 2
+130,2,2026-03-08,322.6,software,software for project 2
+131,1,2026-05-14,1418.87,software,software for project 1
+132,6,2026-02-22,3250.0,software,software for project 6
+133,7,2026-05-14,157.64,software,software for project 7
+134,8,2026-03-31,2078.93,travel,travel for project 8
+135,5,2026-05-10,1934.48,travel,travel for project 5
+136,3,2026-09-06,1972.89,travel,travel for project 3
+137,7,2026-04-22,1282.71,software,software for project 7
+138,1,2026-08-26,1851.3,data labeling,data labeling for project 1
+139,8,2026-06-21,223.86,travel,travel for project 8
+140,4,2026-09-23,1219.56,data labeling,data labeling for project 4
+141,9,2026-07-03,2103.4,travel,travel for project 9
+142,4,2026-10-15,363.26,travel,travel for project 4
+143,3,2026-08-14,805.73,software,software for project 3
+144,1,2026-09-24,2103.82,travel,travel for project 1
+145,2,2026-03-03,707.84,software,software for project 2
+146,3,2026-08-30,855.69,GPU cloud,GPU cloud for project 3
+147,4,2026-08-30,743.95,software,software for project 4
+148,8,2026-05-20,2569.91,data labeling,data labeling for project 8
+149,4,2026-10-16,1308.59,travel,travel for project 4
+150,9,2026-10-29,1170.3,GPU cloud,GPU cloud for project 9
+151,2,2026-03-10,634.82,travel,travel for project 2
+152,7,2026-03-07,753.37,travel,travel for project 7
+153,8,2026-01-14,1371.05,travel,travel for project 8
+154,1,2026-04-15,1878.53,GPU cloud,GPU cloud for project 1
+155,10,2026-04-09,2895.99,GPU cloud,GPU cloud for project 10
+156,5,2026-10-07,4598.68,GPU cloud,GPU cloud for project 5
+157,8,2026-01-22,2114.8,travel,travel for project 8
+158,9,2026-07-18,1332.48,software,software for project 9
+159,1,2026-06-15,1299.94,travel,travel for project 1
+160,7,2025-12-21,1165.47,data labeling,data labeling for project 7
