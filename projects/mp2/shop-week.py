@@ -327,6 +327,8 @@ def _(mo):
     - `fetch_order_lines(base, order_id)`: in go the address and one order's id; out comes that order's list of line records. The line I asked about was `reply.json()["lines"]`: `.json()` turns the reply's text into dictionaries and lists, and `"lines"` picks the nested list out of the order record.
 
     **My prediction, committed before the change.** The change: `days` in Inputs from 7 to 14. On today's 7-day run the tool fetched 22 orders worth 826,504.02. A 14-day window contains the 7-day window, so I expect every one of those 22 orders to still be in the list, the order count to land somewhere near twice 22, in the 35 to 50 range, and revenue to grow by a similar factor. The two section 6 checks should still both agree, since neither depends on the window's length.
+
+    **What happened.** With `days = 14` the tool fetched 63 orders worth 1,983,482.53, and both section 6 checks still agreed (63 fetched against 63 reported). The superset part held, and the checks held, but my count prediction missed low: the earlier seven days were busier than the week I had seen, so the count nearly tripled instead of doubling. The lesson I wrote down: a one-week sample is a weak basis for guessing another week's volume, which is exactly why the manager wants this report every Monday instead of extrapolating. After recording this, I set `days` back to 7, so the committed notebook is the Monday report it is meant to be.
     """)
     return
 
